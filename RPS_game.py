@@ -64,4 +64,4 @@ class RPS:
         return(winner)
 
 rps_manual =  RPS()
-print(rps_manual.game())
+rps_manual.game()
