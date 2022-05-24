@@ -1,13 +1,19 @@
 # Rock-Paper-Scissor-ComputerVision
 ****
 AiCore Computer Vision project - ********
-  1. Implementation of rock-paper-scissor game using webcam as input.
+  1. Implementation of rock-paper-scissor game using manual input from user using **basic python**:
+     a. Python | random | input() function | list data structure | Control flow
+     b. To play the game with computer with manual user input, run **rps_game_basic.py**
+     
+  2. Implementation of rock-paper-scissor game using manual input from user using **Advanced python**:
+     a. Python | random | functions| Classes | list data structure | Control flow
+     b. To play the game with computer with manual user input, run **RPS_game.py**
+     
+   2. Implementation of rock-paper-scissor game using webcam as input.
       a. Python |OpenCv | Keras | Numpy | random | 
       b. Model trained on teachable machines building own dataset
       c. To play full game with camera, run **rps_play.py**
-  2. Implementation of rock-paper-scissor game using manual input from user:
-     a. Python | random | input() function | list data structure | Control flow
-     b. To play the game with computer with manual user input, run **rps_game.py**
+  2. 
   
 
 **Mileston1: Create the model **
