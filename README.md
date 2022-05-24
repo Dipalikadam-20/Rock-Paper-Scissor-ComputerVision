@@ -1,6 +1,6 @@
 # Rock-Paper-Scissor-ComputerVision
-
-AiCore Computer Vision project - 
+****
+AiCore Computer Vision project - ********
   1. Implementation of rock-paper-scissor game using webcam as input.
       a. Python |OpenCv | Keras | Numpy | random | 
       b. Model trained on teachable machines building own dataset
