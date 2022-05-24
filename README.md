@@ -1,31 +1,41 @@
 # Rock-Paper-Scissor-ComputerVision
-****
-AiCore Computer Vision project - ********
+
+
+**AiCore Rock-Paper-Scissor-ComputerVision project -**
+
   1. Implementation of rock-paper-scissor game using manual input from user using **basic python**:
+  
      a. Python | random | input() function | list data structure | Control flow
+     
      b. To play the game with computer with manual user input, run **rps_game_basic.py**
      
   2. Implementation of rock-paper-scissor game using manual input from user using **Advanced python**:
+  
      a. Python | random | functions| Classes | list data structure | Control flow
+     
      b. To play the game with computer with manual user input, run **RPS_game.py**
      
-   2. Implementation of rock-paper-scissor game using webcam as input.
-      a. Python |OpenCv | Keras | Numpy | random | 
+   3. Implementation of rock-paper-scissor game using webcam as input and **Computer Vision**.
+   
+      a. Python |OpenCv | Keras | Numpy | random |
+      
       b. Model trained on teachable machines building own dataset
+      
       c. To play full game with camera, run **rps_play.py**
-  2. 
+   
   
 
 **Mileston1: Create the model **
 1.	Go to https://teachablemachine.withgoogle.com to start creating the model. Each class is trained with images of yourself showing options to camera.
 An image model of 4 classes(Rock,Paper,Scissor,Nothing) was created using webcam inputs.
-3.	The model was downloaded and saved to the repository. The text file containing the labels as labels.txt
+
+2.	The model was downloaded and saved to the repository. The text file containing the labels as labels.txt
 
 
 **Milestone 2: Install the dependencies**
 
 Create new virtual environment and install the below requirements
-  Requirements
+ **Requirements**
     •	Python 3
     •	Keras
     •	Tensorflow
@@ -43,8 +53,8 @@ conda install -c conda-forge opencv
 
 pip install ipykernel
 
-**
-Milestone 3: Create a Rock-Paper-Scissor game **
+
+**Milestone 3: Create a Rock-Paper-Scissor game**
 
 1.	Store user’s input and computer’s choices
 2.	Determine the winner by applying the rock-paper-scissor game logic
