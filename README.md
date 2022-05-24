@@ -13,7 +13,7 @@
   
      a. Python | random | functions| Classes | list data structure | Control flow
      
-     b. To play the game with computer with manual user input, run **RPS_game.py**
+     b. To play the game with computer with manual user input and by calling Class RPS(), run **RPS_game.py**
      
    3. Implementation of rock-paper-scissor game using webcam as input and **Computer Vision**.
    
