@@ -21,7 +21,7 @@
       
       b. Model trained on teachable machines building own dataset
       
-      c. To play full game with camera, run **rps_play.py**
+      c. To play full game with camera, run **rps_camera_play.py**
    
   
 
